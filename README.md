@@ -1,6 +1,6 @@
 <div align="center">
-  ## Seja Bem vindo ao meu GitHub!!!
-  ###### Welcome to my GitHub!!! || ¡¡¡Bienvenido a mi GitHub!!! 
+  Seja Bem vindo ao meu GitHub!!!
+  Welcome to my GitHub!!! || ¡¡¡Bienvenido a mi GitHub!!! 
 </div>
   
 <div align="center">
