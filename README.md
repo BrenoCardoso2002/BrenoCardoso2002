@@ -1,6 +1,8 @@
-## Seja Bem vindo ao meu GitHub!!!
-###### Welcome to my GitHub!!! || ¡¡¡Bienvenido a mi GitHub!!! 
-
+<div align="center">
+  ## Seja Bem vindo ao meu GitHub!!!
+  ###### Welcome to my GitHub!!! || ¡¡¡Bienvenido a mi GitHub!!! 
+</div>
+  
 <div align="center">
   <a href="https://github.com/BrenoCardoso2002">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoCardoso2002&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
@@ -11,5 +13,5 @@
   
 <div align="center">  
   <a href="http://www.linkedin.com/in/breno-bernardo-da-silva-cardoso"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="mailto:brenocardosodeveloper22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="mailto:brenocardosodeveloper22@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </div>
