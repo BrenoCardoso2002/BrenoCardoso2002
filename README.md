@@ -19,5 +19,5 @@
 </br>
 
 <i> Sugestão de visualização: </i> </br>
-  - <a href="https://github.com/BrenoCardoso2002/Como-Executar-python_CMD" target="_blank"> Como executar um arquivo Python pelo CMD </a>
-  - <a href="https://github.com/BrenoCardoso2002/Abrindo_Mais_Recente-Python" target="_blank"> Abrir o arquivo mais recente da Pasta automaticamente </a>
+  - <a href="https://github.com/BrenoCardoso2002/Como-Executar-python_CMD"> Como executar um arquivo Python pelo CMD </a>
+  - <a href="https://github.com/BrenoCardoso2002/Abrindo_Mais_Recente-Python"> Abrir o arquivo mais recente da Pasta automaticamente </a>
