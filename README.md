@@ -24,3 +24,5 @@
   - <a href="https://github.com/BrenoCardoso2002/Como-Executar-python_CMD"> Como executar um arquivo Python pelo CMD </a>
   - <a href="https://github.com/BrenoCardoso2002/Abrindo_Mais_Recente-Python"> Abrir o arquivo mais recente da Pasta automaticamente </a>
   - <a href="https://github.com/BrenoCardoso2002/Validador-de-CPF-ou-CNPJ-Python"> Validador de CPF/CNPJ </a>
+
+<link rel="stylesheet" href="A1.css">
