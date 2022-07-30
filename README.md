@@ -22,4 +22,4 @@
 </br>
 
 <i> 💻 Sugestão de visualização: </i> </br>
-  - <a href="https://github.com/BrenoCardoso2002/Como-Executar-python_CMD"> Como executar um arquivo Python pelo CMD </a>
+  -
