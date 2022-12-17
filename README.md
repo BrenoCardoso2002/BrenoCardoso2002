@@ -22,4 +22,5 @@
 </br>
 
 <i> 💻 Sugestão de visualização: </i> </br>
-  -<a href="https://github.com/BrenoCardoso2002/Custom_AlertDialog-Android_Studio"> AlertDialog Customizada (Android Studio) </a>
+  -<a href="https://github.com/BrenoCardoso2002/Custom_AlertDialog-Android_Studio"> AlertDialog Customizada (Android Studio) </a>  
+  -<a href="https://github.com/BrenoCardoso2002/Zoom_Image"> Dar zoom na imagem (HTML, CSS e JavaScript) </a>
