@@ -1,7 +1,7 @@
 # Hey! I'm Breno Cardoso  ✌
 <h2> 😎 About me: </h2>
 <div align="center">
-  Profissional de TI formado como técnico em informática, graduando como tecnólogo em análise e desenvolvimento de sistemas.
+  <p> Profissional de TI formado como técnico em informática, graduando como tecnólogo em análise e desenvolvimento de sistemas. </p>
 </div>
 <div align="center">  
   <a href="http://www.linkedin.com/in/breno-bernardo-da-silva-cardoso"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
