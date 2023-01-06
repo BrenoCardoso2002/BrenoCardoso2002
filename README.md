@@ -34,5 +34,6 @@
 <div align="center">    
   <a href="https://github.com/BrenoCardoso2002/Zoom_Image"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Zoom_Image&theme=shades-of-purple&layout=compact"/> </a>  
   <a href="https://github.com/BrenoCardoso2002/Custom_AlertDialog-Android_Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Custom_AlertDialog-Android_Studio&theme=shades-of-purple"/> </a>
+  <a href="https://github.com/BrenoCardoso2002/Lista-de-tarefas_Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Lista-de-tarefas_Android&theme=shades-of-purple"/> </a>
 </div>
 
