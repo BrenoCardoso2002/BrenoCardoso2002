@@ -31,14 +31,22 @@
 </br>
 
 <h2> <i> 🤖 Project suggestions: </i> </h2>
-<h3>AndroidStudio:</h3>
-<div align="center">    
-  <b>Programas completos:</br></b>
+<details>
+<summary><h3>AndroidStudio:</h3></summary>
+<div align="center">   
+<details>
+  <summary><b>Programas completos:</br></b></summary>
   <a href="https://github.com/BrenoCardoso2002/Lista-de-tarefas_Android"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Lista-de-tarefas_Android&theme=shades-of-purple"/> </a>
-  <b></br></br>Imagem Android Studio:</br></b>
+</details>
+<details>  
+<summary><b></br></br>Imagem Android Studio:</br></b></summary>
   <a href="https://github.com/BrenoCardoso2002/Open-Image_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Open-Image_AndroidStudio&theme=shades-of-purple"/> </a>
   <a href="https://github.com/BrenoCardoso2002/Upload-Image_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Upload-Image_AndroidStudio&theme=shades-of-purple"/> </a>
   <a href="https://github.com/BrenoCardoso2002/Read-Image_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Read-Image_AndroidStudio&theme=shades-of-purple"/> </a>
-<b></br></br>Firebase Android Studio:</br></b>
+</details>
+<details>
+<summary><b></br></br>Firebase Android Studio:</br></b></summary>
   <a href="https://github.com/BrenoCardoso2002/Firebase-Login_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Firebase-Login_AndroidStudio&theme=shades-of-purple"/> </a>
+</details>
 </div>
+</details>
