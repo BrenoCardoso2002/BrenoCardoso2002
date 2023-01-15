@@ -17,26 +17,26 @@
     <b> Top 5 languages:</b></br>
   </div>
   <a href="https://github.com/BrenoCardoso2002"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoCardoso2002&langs_count=5&theme=shades-of-purple"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoCardoso2002&langs_count=5&theme=shades-of-purple"/>
   </a>
   <div>
     </br>
     <b> GitHub Stats:</b></br>
   </div>
   <a href="https://github.com/BrenoCardoso2002"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoCardoso2002&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoCardoso2002&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 </br>
 
 <h2> <i> 🤖 Project suggestions: </i> </h2>
+<h3>AndroidStudio:</h3>
 <div align="center">    
   <b>Programas completos:</br></b>
-  <a href="https://github.com/BrenoCardoso2002/Lista-de-tarefas_Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Lista-de-tarefas_Android&theme=shades-of-purple"/> </a>
+  <a href="https://github.com/BrenoCardoso2002/Lista-de-tarefas_Android"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Lista-de-tarefas_Android&theme=shades-of-purple"/> </a>
   <b></br></br>Imagem Android Studio e Firebase Storage (Kotlin):</br></b>
-  <a href="https://github.com/BrenoCardoso2002/Open-Image_AndroidStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Open-Image_AndroidStudio&theme=shades-of-purple"/> </a>
-  <a href="https://github.com/BrenoCardoso2002/Upload-Image_AndroidStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Upload-Image_AndroidStudio&theme=shades-of-purple"/> </a>
-  <a href="https://github.com/BrenoCardoso2002/Read-Image_AndroidStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Read-Image_AndroidStudio&theme=shades-of-purple"/> </a>
+  <a href="https://github.com/BrenoCardoso2002/Open-Image_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Open-Image_AndroidStudio&theme=shades-of-purple"/> </a>
+  <a href="https://github.com/BrenoCardoso2002/Upload-Image_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Upload-Image_AndroidStudio&theme=shades-of-purple"/> </a>
+  <a href="https://github.com/BrenoCardoso2002/Read-Image_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Read-Image_AndroidStudio&theme=shades-of-purple"/> </a>
 </div>
-
