@@ -45,7 +45,7 @@
   <a href="https://github.com/BrenoCardoso2002/Read-Image_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Read-Image_AndroidStudio&theme=shades-of-purple"/> </a>
 </details>
 <details>
-<summary><b>Firebase Android Studio:</br></b></summary>
+<summary><b>Firebase Authentication Android Studio:</br></b></summary>
   <a href="https://github.com/BrenoCardoso2002/Firebase-Login_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Firebase-Login_AndroidStudio&theme=shades-of-purple"/> </a>
 </details>
 </div>
