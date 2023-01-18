@@ -50,3 +50,13 @@
 </details>
 </div>
 </details>
+<details>
+  <summary><b>Python:</br></b></summary>
+  <div align="center">
+  <details>
+    <summary><b>Com interface gráfica:</br></b></summary>
+    <a href="https://github.com/BrenoCardoso2002/ColorPicker-Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=ColorPicker-Python&theme=shades-of-purple"/> </a>
+  </details>
+  </div>
+</details>
+
