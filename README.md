@@ -55,8 +55,12 @@
   <summary><b>Python:</br></b></summary>
   <div align="center">
   <details>
-    <summary><b>Com interface gráfica:</br></b></summary>
+    <summary><b>Geral com interface gráfica:</br></b></summary>
     <a href="https://github.com/BrenoCardoso2002/ColorPicker-Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=ColorPicker-Python&theme=shades-of-purple"/> </a>
+  </details>
+  <details>
+  <summary><b>Banco de dados SQLITE:</b></summary>
+    <a href="https://github.com/BrenoCardoso2002/SQLite-noTerminal_Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=SQLite-noTerminal_Python&theme=shades-of-purple"/> </a>
   </details>
   </div>
 </details>
