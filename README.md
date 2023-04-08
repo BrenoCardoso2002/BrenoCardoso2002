@@ -53,14 +53,6 @@
 <details>
   <summary><b>Python:</br></b></summary>
   <div align="center">
-  <details>
-    <summary><b>Geral com interface gráfica:</br></b></summary>
-    <a href="https://github.com/BrenoCardoso2002/ColorPicker-Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=ColorPicker-Python&theme=shades-of-purple"/> </a>
-  </details>
-  <details>
-  <summary><b>Banco de dados:</b></summary>
-    <a href="https://github.com/BrenoCardoso2002/SQLite-noTerminal_Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=SQLite-noTerminal_Python&theme=shades-of-purple"/> </a>
-  </details>
-  </div>
-</details>
-
+    <a href="https://github.com/BrenoCardoso2002/Face_Hand_Validator"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Face_Hand_Validator&theme=shades-of-purple"/> </a>
+    <a href="https://github.com/BrenoCardoso2002/Reconhecimento_Facial"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Reconhecimento_Facial&theme=shades-of-purple"/> </a>
+</div>
