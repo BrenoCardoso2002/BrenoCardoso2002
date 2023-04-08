@@ -34,20 +34,8 @@
 <details>
 <summary><h3>AndroidStudio:</h3></summary>
 <div align="center">   
-<details>
-  <summary><b>Programas completos:</br></b></summary>
   <a href="https://github.com/BrenoCardoso2002/Lista-de-tarefas_Android"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Lista-de-tarefas_Android&theme=shades-of-purple"/> </a>
     <a href="https://github.com/BrenoCardoso2002/Bakiliya"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Bakiliya&theme=shades-of-purple"/> </a>
-</details>
-<details>
-<summary><b>Firebase:</br></b></summary>
-  <a href="https://github.com/BrenoCardoso2002/Firebase-Login_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Firebase-Login_AndroidStudio&theme=shades-of-purple"/> </a>
-   <a href="https://github.com/BrenoCardoso2002/Firebase-Register_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Firebase-Register_AndroidStudio&theme=shades-of-purple"/> </a>
-</details>
-<details>
-<summary><b>Consumo de api:</br></b></summary>
-  <a href="https://github.com/BrenoCardoso2002/BuscaCEP-Java_AndroidStudio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=BuscaCEP-Java_AndroidStudio&theme=shades-of-purple"/> </a>
-</details>
 </div>
 </details>
 <details>
