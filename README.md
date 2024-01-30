@@ -41,6 +41,6 @@
 <details>
   <summary><b>Python:</br></b></summary>
   <div align="center">
-    <a href="https://github.com/BrenoCardoso2002/Face_Hand_Validator"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Face_Hand_Validator&theme=shades-of-purple"/> </a>
+    <a href="https://github.com/BrenoCardoso2002/FaceHandDetector"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=FaceHandDetector&theme=shades-of-purple"/> </a>
     <a href="https://github.com/BrenoCardoso2002/Reconhecimento_Facial"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BrenoCardoso2002&repo=Reconhecimento_Facial&theme=shades-of-purple"/> </a>
 </div>
